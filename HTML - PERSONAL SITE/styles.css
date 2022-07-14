@@ -1,0 +1,31 @@
+body{
+    background-color:azure;
+}
+#headname {
+    color:#af4261;
+    font-size: 60px;
+}
+img.joshpic {
+    border-radius: 50%;
+    border-color: royalblue;
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+    display: block;
+}
+ul {
+    background-color: black;
+    text-align: right;
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+  }
+
+li {
+    background-color: slateblue;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline;
+}
+/*somehow get the header to make text white after clicking the link */
